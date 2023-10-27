@@ -1,0 +1,989 @@
+[
+    {
+        "name":"Gross Domestic Product",
+        "alternatives":[
+            "GDP",
+            "Growth Rate",
+            "국내총생산"
+        ]
+    },
+    {
+        "name":"Personal Consumption Expenditure",
+        "alternatives":[
+            "PCE",
+            "개인소비지출"
+        ]
+    },
+    {
+        "name":"Gross Private Domestic Investment",
+        "alternatives":[
+            "총민간 국내투자",
+            "총민간국내투자",
+            "총민간 국내 투자",
+            "총민간 국내투자",
+            "총 민간 국내 투자",
+            "총 민간 국내투자",
+            "민간 총투자",
+            "민간총투자",
+            "민간 총 투자",
+            "GPDI"
+        ]
+    },
+    {
+        "name":"National Income",
+        "alternatives":[
+            "국민소득",
+            "국민 총소득"
+        ]
+    },
+    {
+        "name":"Industrial Production",
+        "alternatives":[
+            "산업생산지수"
+        ]
+    },
+    {
+        "name":"Nonagricultural Employment",
+        "alternatives":[
+            "비농업 고용"
+        ]
+    },
+    {
+        "name":"Unemployment Rates",
+        "alternatives":[
+            "Unemployment Rate",
+            "실업률"
+        ]
+    },
+    {
+        "name":"Private Consumption",
+        "alternatives":[
+            "민간 소비",
+            "민간소비",
+            "민간지출",
+            "민간 지출"
+        ]
+    },
+    {
+        "name":"Government Consumption",
+        "alternatives":[
+            "정부소비",
+            "정부 소비",
+            "정부 지출",
+            "정부지출"
+        ]
+    },
+    {
+        "name":"Gross Fixed Capital Formation",
+        "alternatives":[
+            "총고정자본형성",
+            "총자본형성",
+            "GFCF",
+            "Gross Fixed"
+        ]
+    },
+    {
+        "name":"Imports of Goods and Services",
+        "alternatives":[
+            "상품 및 서비스 수입"
+        ]
+    },
+    {
+        "name":"Exports of Goods and Services",
+        "alternatives":[
+            "상품 및 서비스 수출"
+        ]
+    },
+    {
+        "name":"Business Confidence",
+        "alternatives":[
+            "기업신뢰",
+            "기업 신뢰"
+        ]
+    },
+    {
+        "name":"Consumer Confidence",
+        "alternatives":[
+            "소비자 신뢰지수",
+            "소비자 신뢰 지수"
+        ]
+    },
+    {
+        "name":"Industrial Production Index",
+        "alternatives":[
+            "산업생산지수",
+            "산업 생산 지수",
+            "산업 생산지수"
+        ]
+    },
+    {
+        "name":"Inflation Rate",
+        "alternatives":[
+            "Inflation",
+            "Deflation",
+            "Core Inflation Rate",
+            "인플레이션",
+            "인플레",
+            "물가상승률",
+            "물가상승"
+        ]
+    },
+    {
+        "name":"Producer Prices",
+        "alternatives":[
+            "생산자 물가",
+            "생산자물가"
+        ]
+    },
+    {
+        "name":"Hourly Earnings Index",
+        "alternatives":[
+            "시간당 평균 임금 지수",
+            "시간당 평균임금지수",
+            "시간당 평균 임금지수",
+            "시간당 평균 임금 지수",
+            "시간당 평균임금 지수",
+            "평균임금"
+        ]
+    },
+    {
+        "name":"Labour Cost",
+        "alternatives":[
+            "Unit Labour Cost",
+            "인건비"
+        ]
+    },
+    {
+        "name":"Total Employment",
+        "alternatives":[
+            "완전 고용",
+            "완전고용"
+        ]
+    },
+    {
+        "name":"Total Labour Force",
+        "alternatives":[]
+    },
+    {
+        "name":"Interbank Rate",
+        "alternatives":[
+            "리보",
+            "리보금리",
+            "리보 금리"
+        ]
+    },
+    {
+        "name":"Overnight Interbank Rate",
+        "alternatives":[]
+    },
+    {
+        "name":"3-month Interbank Rate",
+        "alternatives":[]
+    },
+    {
+        "name":"10-year Government Bonds",
+        "alternatives":[
+            "Government Bond 10Y",
+            "Government Bond",
+            "Government Bonds",
+            "국채 이자",
+            "국채이자",
+            "채권 이자",
+            "채권이자",
+            "국채 금리",
+            "국채금리",
+            "채권 금리",
+            "채권금리",
+            "10년물 국채 금리",
+            "10년물국채금리",
+            "10년물 국채금리",
+            "10년물 채권 금리",
+            "10년물채권금리",
+            "10년물 채권금리",
+            "10년물 국채 이자",
+            "10년물국채이자",
+            "10년물 국채이자",
+            "10년물 채권 이자",
+            "10년물채권이자",
+            "10년물 채권이자"
+        ]
+    },
+    {
+        "name":"Share Prices",
+        "alternatives":[
+            "주가",
+            "Share Price",
+            "Stock Price",
+            "Stock Prices"
+        ]
+    },
+    {
+        "name":"Monetary Aggregates",
+        "alternatives":[
+            "화폐 총액",
+            "화폐총액"
+        ]
+    },
+    {
+        "name":"Real Effective Exchange Rate",
+        "alternatives":[
+            "실질실효환율"
+        ]
+    },
+    {
+        "name":"Interest Rate",
+        "alternatives":[
+            "금리"
+        ]
+    },
+    {
+        "name":"Key Interest Rate",
+        "alternatives":[
+            "Base Interest Rate",
+            "Benchmark Interest Rate",
+            "Key Rate",
+            "Base Rate",
+            "기준금리"
+        ]
+    },
+    {
+        "name":"Government Debt",
+        "alternatives":[
+            "Government Debt to GDP",
+            "정부 부채",
+            "정부부채"
+        ]
+    },
+    {
+        "name":"Balance of Trade",
+        "alternatives":[
+            "Trade Balance",
+            "무역수지"
+        ]
+    },
+    {
+        "name":"Current Account",
+        "alternatives":[
+            "Current Account to GDP",
+            "경상수지"
+        ]
+    },
+    {
+        "name":"Credit Rating",
+        "alternatives":[]
+    },
+    {
+        "name":"Commodity",
+        "alternatives":[
+            "신용등급",
+            "신용 등급"
+        ]
+    },
+    {
+        "name":"Employment Change",
+        "alternatives":[]
+    },
+    {
+        "name":"Employment Rates",
+        "alternatives":[
+            "Employment Rate",
+            "고용률"
+        ]
+    },
+    {
+        "name":"Full Time Employment",
+        "alternatives":[
+            "풀타임 고용률",
+            "풀타임고용률",
+            "전일제 고용률",
+            "전일제고용률",
+            "정규직 고용률",
+            "정규직고용률"
+        ]
+    },
+    {
+        "name":"Initial Jobless Claims",
+        "alternatives":[
+            "실업수당청구건수",
+            "실업수당 청구건수"
+        ]
+    },
+    {
+        "name":"Job Vacancies",
+        "alternatives":[
+            "Job Vacancy",
+            "Job Opening",
+            "Job Openings",
+            "채용공고",
+            "채용 공고"
+        ]
+    },
+    {
+        "name":"Labor Force Participation Rate",
+        "alternatives":[
+            "경제활동참가율",
+            "경제활동 참가율",
+            "경제활동인구",
+            "경제활동 인구"
+        ]
+    },
+    {
+        "name":"Minimum Wages",
+        "alternatives":[
+            "최저임금",
+            "최저 임금"
+        ]
+    },
+    {
+        "name":"Non Farm Payrolls",
+        "alternatives":[
+            "NFP",
+            "비농업고용지수",
+            "비농업 고용지수",
+            "비농업 고용 지수"
+        ]
+    },
+    {
+        "name":"Part Time Employment",
+        "alternatives":[
+            "파트타임 고용율",
+            "파트타임고용율",
+            "시간제 고용율",
+            "시간제고용율",
+            "계약직 고용율",
+            "계약직고용율"
+        ]
+    },
+    {
+        "name":"Long Term Unemployment Rate",
+        "alternatives":[]
+    },
+    {
+        "name":"Population",
+        "alternatives":[
+            "인구수"
+        ]
+    },
+    {
+        "name":"Retirement Age",
+        "alternatives":[
+            "퇴직연령",
+            "퇴직 연령"
+        ]
+    },
+    {
+        "name":"Wage Growth",
+        "alternatives":[
+            "임금 상승률",
+            "임금상승률"
+        ]
+    },
+    {
+        "name":"Wages in Manufacturing",
+        "alternatives":[]
+    },
+    {
+        "name":"Asylum Applications",
+        "alternatives":[]
+    },
+    {
+        "name":"Fiscal Expenditure",
+        "alternatives":[]
+    },
+    {
+        "name":"Government Budget",
+        "alternatives":[
+            "Government Budget Value",
+            "정부예산",
+            "정부 예산"
+        ]
+    },
+    {
+        "name":"Government Revenues",
+        "alternatives":[]
+    },
+    {
+        "name":"Government Spending",
+        "alternatives":[
+            "Government Spending to GDP",
+            "정부지출",
+            "정부 지출"
+        ]
+    },
+    {
+        "name":"Military Expendture",
+        "alternatives":[
+            "국방지출",
+            "국방 지출"
+        ]
+    },
+    {
+        "name":"Consumer Price Index",
+        "alternatives":[
+            "CPI",
+            "CPI Housing Utilities",
+            "소비자 물가 지수",
+            "소비자 물가지수",
+            "소비자물가지수"
+        ]
+    },
+    {
+        "name":"Core Consumer Prices",
+        "alternatives":[
+            "Consumer Prices",
+            "Harmonised Consumer Prices",
+            "근원물가지수"
+        ]
+    },
+    {
+        "name":"Export Prices",
+        "alternatives":[
+            "수출가격",
+            "수출 가격"
+        ]
+    },
+    {
+        "name":"Import Prices",
+        "alternatives":[]
+    },
+    {
+        "name":"Food Inflation",
+        "alternatives":[
+            "수입가격",
+            "수입 가격"
+        ]
+    },
+    {
+        "name":"Deflator",
+        "alternatives":[
+            "GDP Deflator",
+            "디플레이터"
+        ]
+    },
+    {
+        "name":"Inflation Expectations",
+        "alternatives":[
+            "Inflation Expectation",
+            "Expected Inflation",
+            "기대인플레이션",
+            "기대 인플레이션"
+        ]
+    },
+    {
+        "name":"Money Multiplier",
+        "alternatives":[
+            "화폐승수",
+            "화폐 승수",
+            "통화승수",
+            "통화 승수"
+        ]
+    },
+    {
+        "name":"Money Velocity",
+        "alternatives":[
+            "velocity of circulation of money",
+            "통화속도",
+            "통화 속도",
+            "통화유통속도",
+            "화폐속도",
+            "화폐 속도",
+            "화폐유통속도"
+        ]
+    },
+    {
+        "name":"Cash Reserve Ratio",
+        "alternatives":[
+            "지급준비율",
+            "지급 준비율"
+        ]
+    },
+    {
+        "name":"Banks Balance Sheet",
+        "alternatives":[
+            "재무제표",
+            "대차대조표"
+        ]
+    },
+    {
+        "name":"Deposit Interest Rate",
+        "alternatives":[
+            "예금 이율",
+            "예금 이자",
+            "예금이율",
+            "예금이자",
+            "예금리"
+        ]
+    },
+    {
+        "name":"Foreign Exchange Reserves",
+        "alternatives":[
+            "외환보유",
+            "외환 보유"
+        ]
+    },
+    {
+        "name":"Lending Rate",
+        "alternatives":[
+            "대출 금리",
+            "대출 이자",
+            "대출금리",
+            "대출이자"
+        ]
+    },
+    {
+        "name":"Loan Growth",
+        "alternatives":[]
+    },
+    {
+        "name":"Loans to Private Sector",
+        "alternatives":[
+            "민간부문 대출"
+        ]
+    },
+
+    {
+        "name":"Private Debt",
+        "alternatives":[
+            "사모 대출",
+            "사모대출"
+        ]
+    },
+    {
+        "name":"Capital Flows",
+        "alternatives":[
+            "자본 흐름",
+            "자본흐름",
+            "자본 이동",
+            "자본이동"
+        ]
+    },
+    {
+        "name":"Crude Oil Production",
+        "alternatives":[
+            "Oil Production",
+            "원유 생산량",
+            "원유생산량",
+            "오일 생산량",
+            "오일생산량",
+            "원유 증산",
+            "원유 감산"
+        ]
+    },
+    {
+        "name":"External Debt",
+        "alternatives":[]
+    },
+    {
+        "name":"Foreign Direct Investment",
+        "alternatives":[
+            "FDI",
+            "외국인직접투자",
+            "외국인 직접투자",
+            "외국인 직접 투자",
+            "해외직접투자",
+            "해외 직접투자",
+            "해외 직접 투자"
+        ]
+    },
+    {
+        "name":"Gold Reserves",
+        "alternatives":[
+            "Gold Reserve",
+            "금 보유량"
+        ]
+    },
+    {
+        "name":"Crude Oil Reserve",
+        "alternatives":[
+            "Oil Reserve",
+            "원유비축량",
+            "원유 비축량",
+            "석유비축량",
+            "석유 비축량",
+            "원유저장량",
+            "원유 저장량",
+            "석유저장량",
+            "석유 저장량"
+        ]
+    },
+    {
+        "name":"Remittances",
+        "alternatives":[
+            "Remittance"
+        ]
+    },
+    {
+        "name":"Tourism Revenues",
+        "alternatives":[
+            "Tourism Revenue",
+            "관광수입",
+            "관광 수입"
+        ]
+    },
+    {
+        "name":"Weapons Sales",
+        "alternatives":[
+            "무기판매",
+            "무기 판매"
+        ]
+    },
+    {
+        "name":"Gross National Product",
+        "alternatives":[
+            "GNP",
+            "국민총생산"
+        ]
+    },
+    {
+        "name":"Building Permits",
+        "alternatives":[
+            "건설 허가",
+            "건설허가"
+        ]
+    },
+    {
+        "name":"Construction Output",
+        "alternatives":[]
+    },
+    {
+        "name":"Home Ownership Rate",
+        "alternatives":[
+            "자가소유율"
+        ]
+    },
+    {
+        "name":"Housing Index",
+        "alternatives":[
+            "주택가격지수",
+            "주택가격 지수",
+            "주택 가격 지수",
+            "주택 가격지수"
+        ]
+    },
+    {
+        "name":"Price to Rent Ratio",
+        "alternatives":[
+            "PRR",
+            "임대료 대비 가격지수",
+            "주택수익비율"
+        ]
+    },
+    {
+        "name":"Residential Property Prices",
+        "alternatives":[]
+    },
+    {
+        "name":"Housing Starts",
+        "alternatives":[
+            "주택착공",
+            "주택 착공"
+        ]
+    },
+    {
+        "name":"Bankruptcies",
+        "alternatives":[
+            "Bankrupt",
+            "파산"
+        ]
+    },
+    {
+        "name":"Capacity Utilization",
+        "alternatives":[
+            "가동률",
+            "설비가동률"
+        ]
+    },
+    {
+        "name":"Car Production",
+        "alternatives":[
+            "자동차 생산"
+        ]
+    },
+    {
+        "name":"Households Debt",
+        "alternatives":[
+            "가계 부채",
+            "가계부채"
+        ]
+    },
+    {
+        "name":"Crude Oil Prices",
+        "alternatives":[
+            "Crude Oil Price",
+            "Oil Price",
+            "Oil Prices",
+            "원유 가격"
+        ]
+    },
+    {
+        "name":"Gasoline Prices",
+        "alternatives":[
+            "Gasoline Price",
+            "휘발유 가격"
+        ]
+    },
+    {
+        "name":"Disposable Personal Income",
+        "alternatives":[
+            "가처분 소득"
+        ]
+    },
+    {
+        "name":"Consumer Spending",
+        "alternatives":[
+            "소비자 지출"
+        ]
+    },
+    {
+        "name":"Consumer Credit",
+        "alternatives":[
+            "소비자 신용"
+        ]
+    },
+    {
+        "name":"Corporate Tax Rate",
+        "alternatives":[
+            "법인 세율",
+            "법인세"
+        ]
+    },
+    {
+        "name":"Personal Income Tax Rate",
+        "alternatives":[
+            "개인소득세",
+            "소득세",
+            "소득 세율"
+        ]
+    },
+    {
+        "name":"Sales Tax Rate",
+        "alternatives":[
+            "판매세",
+            "판매 세율"
+        ]
+    },
+    {
+        "name":"Composite Leading Indicators",
+        "alternatives":[
+            "Composite Leading Indicator",
+            "CLI",
+            "경기선행지수"
+        ]
+    },
+    {
+        "name":"Terms of Trade",
+        "alternatives":[
+            "교역조건"
+        ]
+    },
+    {
+        "name":"Business Survey Index",
+        "alternatives":[
+            "BSI",
+            "기업경기실사지수"
+        ]
+    },
+    {
+        "name":"Dollar Index",
+        "alternatives":[
+            "달러지수",
+            "달러 인덱스"
+        ]
+    },
+    {
+        "name":"Beige Book",
+        "alternatives":[
+            "베이지북"
+        ]
+    },
+    {
+        "name":"Debt Limit",
+        "alternatives":[
+            "Debt Ceiling",
+            "부채한도"
+        ]
+    },
+    {
+        "name":"Citigroup Economic Surprise",
+        "alternatives":[
+            "서프라이즈 인덱스"
+        ]
+    },
+    {
+        "name":"Earning Surprise",
+        "alternatives":[
+            "어닝 서프라이즈"
+        ]
+    },
+    {
+        "name":"Non-farm Payroll",
+        "alternatives":[
+            "비농업 고용"
+        ]
+    },
+    {
+        "name":"Contribution to Growth",
+        "alternatives":[
+            "Growth Contribution",
+            "성장기여도",
+            "성장기여율"
+        ]
+    },
+    {
+        "name":"Advance Estimate",
+        "alternatives":[
+            "속보치"
+        ]
+    },
+    {
+        "name":"Export Similarity Index",
+        "alternatives":[
+            "수출경합도"
+        ]
+    },
+    {
+        "name":"Quantitative Easing",
+        "alternatives":[
+            "양적완화",
+            "양적 완화",
+            "Easing",
+            "QE",
+            "Q.E."
+        ]
+    },
+    {
+        "name":"Quantitative Tapering",
+        "alternatives":[
+            "양적긴축",
+            "양적 긴축",
+            "Tapering",
+            "QT",
+            "Q.T."
+        ]
+    },
+    {
+        "name":"Annualizing",
+        "alternatives":[
+            "연율화"
+        ]
+    },
+    {
+        "name":"Potential GDP",
+        "alternatives":[
+            "잠재 GDP",
+            "잠재GDP"
+        ]
+    },
+    {
+        "name":"Nominal Interest Rate",
+        "alternatives":[
+            "명목이자율"
+        ]
+    },
+    {
+        "name":"Currency",
+        "alternatives":[
+            "통화"
+        ]
+    },
+    {
+        "name":"M0",
+        "alternatives":[
+            "민간 보유 현금",
+            "민간 보유현금"
+        ]
+    },
+    {
+        "name":"Monetary Base",
+        "alternatives":[
+            "MB",
+            "본원통화",
+            "base money",
+            "total currency",
+            "central bank money"
+        ]
+    },
+    {
+        "name":"M1",
+        "alternatives":[
+            "협의통화",
+            "협의 통화"
+        ]
+    },
+    {
+        "name":"Money Supply",
+        "alternatives":[
+            "M2",
+            "통화량 공급",
+            "통화량공급",
+            "통화 공급량",
+            "통화공급량",
+            "통화량",
+            "광의통화"
+        ]
+    },
+    {
+        "name":"M3",
+        "alternatives":[]
+    },
+    {
+        "name":"Purchasing Manager Index",
+        "alternatives":[
+            "PMI"
+        ]
+    },
+    {
+        "name":"Leading Indicator",
+        "alternatives":[
+            "선행 지표",
+            "선행지표"
+        ]
+    },
+    {
+        "name":"Average Weekly Hours",
+        "alternatives":[
+            "주당 노동 시간"
+        ]
+    },
+    {
+        "name":"Average Weekly Inital Jobless Claims for Unemployment",
+        "alternatives":[
+            "평균 주간신규실업수당신청건수"
+        ]
+    },
+    {
+        "name":"Manufacturers' new orders for consumer goods/materials",
+        "alternatives":[
+            "제조업계의 소비자 상품/자재 신규주문"
+        ]
+    },
+    {
+        "name":"Vendor performance",
+        "alternatives":[
+            "slower deliveries diffusion index",
+            "매각 실적",
+            "납품 지연 확산 지수"
+        ]
+    },
+    {
+        "name":"Manufacturers' new orders for non-defense capital goods",
+        "alternatives":[
+            "제조업자의 비국방 자본재 신규주문"
+        ]
+    },
+    {
+        "name":"Stock prices of 500 common stocks",
+        "alternatives":[
+            "S&P500",
+            "S&P 500",
+            "500대 보통주 주가"
+        ]
+    },
+    {
+        "name":"Consumer Expectations",
+        "alternatives":[
+            "소비자 기대 지수",
+            "소비자 기대지수"
+        ]
+    }
+]
