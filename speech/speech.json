@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "파월",
+        "file": "speech/powell.txt"
+    },
+    {
+        "speaker": "한은총재",
+        "file": "speech/korea_bank.txt"
+    },
+    {
+        "speaker": "푸틴",
+        "file": "speech/putin.txt"
+    },
+    {
+        "speaker": "빈살만",
+        "file": "speech/saudi.txt"
+    }
+]
