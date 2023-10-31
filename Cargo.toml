@@ -11,6 +11,7 @@ repository = "https://github.com/seongs1024/economic_indicator_finder"
 license = "MIT"
 keywords = ["economics", "economic-indicator", "text-processing"]
 categories = ["text-processing"]
+documentation = "https://docs.rs/economic_indicator_finder"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
