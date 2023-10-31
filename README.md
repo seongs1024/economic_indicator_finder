@@ -5,7 +5,7 @@ A finder for extracting economic indicators from paragraphs
 ## Usage
 
 ```rust
-use economic_indicator_finder::{Finder, Indicator, Speech};
+use economic_indicator_finder::prelude::*;
 use anyhow::Result;
 use std::fs::read_to_string;
 
