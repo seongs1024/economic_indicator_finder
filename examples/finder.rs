@@ -1,5 +1,5 @@
 use anyhow::Result;
-use economic_indicator_finder::{Finder, Indicator, Speech};
+use economic_indicator_finder::prelude::*;
 use std::fs::read_to_string;
 
 fn main() -> Result<()> {
