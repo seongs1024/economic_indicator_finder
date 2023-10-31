@@ -1,6 +1,10 @@
 
 use anyhow::Result;
-use regex::{Regex, RegexSet};
+use regex::Regex;
+
+#[cfg(feature = "slow_finder")]
+use regex::RegexSet;
+
 use std::collections::BTreeSet;
 
 pub trait Matches {
@@ -47,11 +51,13 @@ impl Matches for Finder {
     }
 }
 
+#[cfg(feature = "slow_finder")]
 pub struct SlowFinder {
     indicators: Vec<String>,
     regex_set: RegexSet,
 }
 
+#[cfg(feature = "slow_finder")]
 impl SlowFinder {
     #[allow(dead_code)]
     pub fn new(indicators: Vec<String>) -> Result<Self> {
@@ -69,6 +75,7 @@ impl SlowFinder {
     }
 }
 
+#[cfg(feature = "slow_finder")]
 impl Matches for SlowFinder {
     fn matches<S1>(&self, sentence: S1) -> Vec<String>
     where

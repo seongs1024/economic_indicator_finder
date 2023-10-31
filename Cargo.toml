@@ -1,6 +1,6 @@
 [package]
 name = "economic_indicator_finder"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Seongsu Park <56729421+seongs1024@users.noreply.github.com>"]
 description = """
@@ -20,3 +20,11 @@ anyhow = "1.0.75"
 regex = "1.10.2"
 serde = { version = "1.0.190", features = ["derive"] }
 serde_json = "1.0.107"
+
+[features]
+default = []
+slow_finder = []
+
+[[example]]
+name = "slow_finder"
+required-features = ["slow_finder"]
